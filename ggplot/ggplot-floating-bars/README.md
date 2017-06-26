@@ -2,5 +2,5 @@
 
 This short R script shows how to build a floating horizontal bar chart.
 
-![diamond depth](https://github.com/mihobu/R-Help/raw/master/ggplot/ggplot-arbitrary-length-bar/bars.png "diamond depth")
+![diamond depth](https://raw.githubusercontent.com/mihobu/R-Help/master/ggplot/ggplot-floating-bars/bars.png "diamond depth")
 
