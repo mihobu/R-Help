@@ -1,6 +1,8 @@
 # R-Help
-Tips, tricks, and reminders for how to do stuff in R. This repo exists mostly for things that I find myself needing to refer to often (or struggled to figure out in the first place) but if it's useful to anyone else then woohoo bonus!
+Tips, tricks, and reminders for how to do stuff in R.
 ---
+This repo exists mostly for things that I find myself needing to refer to often (or struggled to figure out in the first place) but if it's useful to anyone else then woohoo bonus!
+
 ## Contents
 
 ### 1. ggplot
